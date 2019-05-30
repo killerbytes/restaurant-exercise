@@ -1,3 +1,7 @@
-## yarn install
+## Setup
 
-## yarn start
+yarn install
+
+## Development
+
+yarn start
